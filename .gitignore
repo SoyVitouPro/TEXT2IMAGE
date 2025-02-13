@@ -1,0 +1,4 @@
+.venv/
+cropped_dataset/
+dataset_generated/
+generated_images/
